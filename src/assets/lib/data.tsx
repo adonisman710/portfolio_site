@@ -66,18 +66,18 @@ import Privacy from "../../components/Privacy";
 
 export const profile = {
   email: "kevin12.scott14@gmail.com",
-  name: "Kevin Scott"
+  name: "Dmytro KAPLUNOV"
 }
 
 export const headerIntroData = {
   title: {
     de: "Hi, ich bin Kevin",
-    en: "Hi, I'm Kevin Scott",
+    en: "Hi, I'm Dmytro KAPLUNOV",
   },
   subtitle: "Fullstack Developer ",
   description: {
     de: "Ich bin Kevin, ein Fullstack-Entwickler mit dem Ziel, meine Karriere voranzutreiben und an inspirierenden Projekten teilzunehmen. Hier präsentiere ich meine Arbeiten und meine Leidenschaft für die Webentwicklung. Lassen Sie uns gemeinsam digitale Lösungen gestalten und die Zukunft formen!",
-    en: "I'm Kevin Scott, a fullstack developer with the goal of advancing my career and participating in inspiring projects. Here I present my work and my passion for web development. Let's shape digital solutions together and shape the future!",
+    en: "I'm Dmytro KAPLUNOV, a fullstack developer with the goal of advancing my career and participating in inspiring projects. Here I present my work and my passion for web development. Let's shape digital solutions together and shape the future!",
   },
   buttons: [
     {
@@ -669,12 +669,13 @@ export const FooterLinks = [
 
 export const sideBarRightMail = {
   link: "#contact",
-  text: "kevin12.scott14@gmail.com",
+  text: "",
+  // text: "kevin12.scott14@gmail.com",
 } as const;
 
 export const sideBarLeftSocials = [
   {
-    link: "https://www.linkedin.com/in/kevin/",
+    link: "https://www.linkedin.com/in/DmytroKAPLUNOV/",
     icon: FiLinkedin,
     altimgname: "linkedin",
   },
@@ -726,14 +727,14 @@ export const aboutMeData = {
   ],
   paragraphs_EN: [
     {
-      title: "Senior Full-stack Engineer",
+      title: "Junior Front-End Developer",
       subtitle: "Santa Clara, 06/2018 ~ 03/2021",
       description:
       "Developed 6 interactive front-end applications using React framework and JavaScript/TypeScript, to improve consumer experience by 35%. Flawlessly implemented 3 cutting-edge HTML and CSS designs, resulting in a 20 % spike in traffic. Collaborated with back-end developers to create and deliver a fully functional CRM system that improved customer acquisition and customer retention with 20%, resulting in 40% revence increase.",
       icon: hardwareicon,
     },
     {
-      title: "Junior Front-End Developer",
+      title: "Senior Full-stack Engineer",
       subtitle: "Scopic Company, 03/2021 ~ 12/2023",
       description:
         "I am a full-stack engineer with over five years of experience in developing web applications using various technologies, such as JavaScript, Python, Java, Ruby and PHP. I have worked on projects that involved front-end, back-end, and database development, as well as integration with external APIs and systems. I am passionate about creating user-friendly, scalable and secure web solutions that meet the needs and expectations of the clients and the users.",
